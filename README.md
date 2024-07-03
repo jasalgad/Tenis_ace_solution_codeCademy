@@ -1,7 +1,7 @@
 # Tennis_ace_solution_codeCademy
-First of all I take a look the data, with .describe() I could see some statistic values of some variables in order to stay alert about the important vartiables.
+First of all I take a look the data, with .describe() I could see some statistic values of some variables in order to stay alert about the important variables.
 
-With the function pd.pairwaise() I check any relationship that could have any variables with others in order to make test prediction and linear regression that will gie me an high score value. As you can see on the graph, I choose the one's that could be more relevant on the previus analysis.
+With the function pd.pairwaise() I check any relationship that could have any variables with others in order to make test prediction and linear regression that will give me an high score value. As you can see on the graph, I choose the one's that could be more relevant on the previus analysis.
 
 I choose two of them that I guess will give me a high score in order to make a good prediction: ServiceGamesPlayed', 'BreakPointsOpportunities'
 
